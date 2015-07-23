@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikuliDotNet", "SikuliDotNet\SikuliDotNet.csproj", "{2FDB59BF-5249-4869-A1E1-1D988F1CEB2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{7815FC2E-FAC3-496A-9EAE-382CA6C84DFD}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDB59BF-5249-4869-A1E1-1D988F1CEB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDB59BF-5249-4869-A1E1-1D988F1CEB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDB59BF-5249-4869-A1E1-1D988F1CEB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDB59BF-5249-4869-A1E1-1D988F1CEB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
